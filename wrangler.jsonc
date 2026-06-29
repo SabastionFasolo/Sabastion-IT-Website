@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sabastion-it-website",
+  "compatibility_date": "2026-06-29",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "sabastionit-site"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
