@@ -82,4 +82,4 @@ Designed and developed by **Sabastion Fasolo**, a U.S. Navy veteran with experie
 
 **Website:** https://sabastionit.com
 
-**Email:** [sabastionfasolo@sabastionit.com](mailto:sabastionfasolo@sabastionit.com)
+**Email:** [sabastion.r.fasolo@gmail.com](mailto:sabastion.r.fasolo@gmail.com)
